@@ -5,6 +5,12 @@ An offline, open-source voice dictation app for **Windows**, inspired by
 speak, and your words get typed into whatever app has focus — entirely
 on-device, no cloud, no API keys required.
 
+> The original macOS project's source is mirrored here for reference:
+> [VemulapalliHarika07/FluidVoice-original](https://github.com/VemulapalliHarika07/FluidVoice-original)
+> (a fork of [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)).
+> It's Swift/Xcode and doesn't build on Windows — this repo is a separate,
+> from-scratch Windows-native reimplementation, not a port of that code.
+
 ## How it works
 
 1. **Global hotkey** (default `Ctrl+Alt+Space`) starts/stops recording from
